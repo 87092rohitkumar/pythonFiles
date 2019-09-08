@@ -1,0 +1,14 @@
+Hi
+hello.
+how are you ? 
+i am fine.
+who are you ?
+i am your chatbot.
+How was your day ?
+it was great.
+Awesome
+yes,How's yours?
+mine was great.
+did you watch the last movie that was released ?
+No, which one?
+
